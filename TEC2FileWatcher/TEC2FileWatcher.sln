@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEC2FileWatcher", "TEC2FileWatcher\TEC2FileWatcher.csproj", "{A575B2CD-09EB-4E14-9209-E685E0B4CA41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A575B2CD-09EB-4E14-9209-E685E0B4CA41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A575B2CD-09EB-4E14-9209-E685E0B4CA41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A575B2CD-09EB-4E14-9209-E685E0B4CA41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A575B2CD-09EB-4E14-9209-E685E0B4CA41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
